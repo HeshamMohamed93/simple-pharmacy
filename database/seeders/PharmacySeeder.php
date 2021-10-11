@@ -1,0 +1,19 @@
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\Pharmacy;
+use Illuminate\Database\Seeder;
+
+class PharmacySeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        Pharmacy::factory()->times(20000)->create();
+    }
+}
