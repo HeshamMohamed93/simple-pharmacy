@@ -6,7 +6,7 @@
 Clone project in your localhost www or htdocs 
 Clone the repository
 
-    git clone git@github.com:gothinkster/simple-pharmacy.git
+    git clone git@github.com:HeshamMohamed93/simple-pharmacy.git
 
 create database with proper name
 
