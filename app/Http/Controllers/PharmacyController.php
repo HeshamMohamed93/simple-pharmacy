@@ -20,6 +20,8 @@ class PharmacyController extends Controller
         return view('admin.pharmacy.index', compact('pharmacies'));
     }
 
+    // new line
+
     /**
      * Show the form for creating a new resource.
      *
